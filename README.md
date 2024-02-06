@@ -14,7 +14,15 @@ Acesse aqui o projeto [Aplicativo de Audiobook](https://aplicativo-de-audiobook.
 
 ---
 
-**Projeto 02**:
+**Projeto 02**: Apple Watch
+
+Inspirado pela ideia de oferecer uma experiência  de personalização direto no navegador, o objetivo é tornar a customização do Apple Watch simple e envolvente.
+
+Utilizando JavaScript pode-se facilitar a interação do usuário com as opção de personalização. Buscando proporcionar uma experiência dinâmica e acessível, permitindo que o usuário visualize as diferentes combinações de cor da pulseira e tamanho do Apple Watch em tempo real.
+
+Acesse aqui o projeto [Apple Watch](https://hashtag-programacao-intensivo-javascript-apple-watch.vercel.app/)
+
+---
 
 **Projeto 03**:
 
