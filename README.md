@@ -10,7 +10,7 @@ Desenvolvido durante o intensivo quatro projetos distintos.
 
 Projeto Aplicativo Audiobook, explora a implementação de uma plataforma interativa para desfrutar da obra literária "Dom Casmurro" em formato de áudio. Alinhado a proposta de sites de audiobook, o projeto oferece ao usuário acesso a áudios previamente preparados. Inspirados pelo conceito de plataformas de audiobook online. Com o uso do JavaScript, é possível programar toda a interatividade da pagina.
 
-Acesse aqui o projeto [Aplicativo de Audiobook](https://aplicativo-de-audiobook.vercel.app/)
+Acesse o projeto [Aplicativo de Audiobook](https://aplicativo-de-audiobook.vercel.app/)
 
 ---
 
@@ -20,10 +20,16 @@ Inspirado pela ideia de oferecer uma experiência  de personalização direto no
 
 Utilizando JavaScript pode-se facilitar a interação do usuário com as opção de personalização. Buscando proporcionar uma experiência dinâmica e acessível, permitindo que o usuário visualize as diferentes combinações de cor da pulseira e tamanho do Apple Watch em tempo real.
 
-Acesse aqui o projeto [Apple Watch](https://hashtag-programacao-intensivo-javascript-apple-watch.vercel.app/)
+Acesse o projeto [Apple Watch](https://hashtag-programacao-intensivo-javascript-apple-watch.vercel.app/)
 
 ---
 
-**Projeto 03**:
+**Projeto 03**: Cardápio Digital
 
-**Projeto 04**:
+O objetivo é oferrecer uma experiência dinâmica para a seleção de pratos, sobremesas e bebidas, tornando a escolha simples e divertida. Com o uso do React facilitar a interação do usuário, permitindo uma nevegação intuitiva entre as opções do menu.
+
+---
+
+**Projeto 04**: Chat em Tempo Real
+
+Bem-vindos ao Chat em Tempo Real, onde exploramos a implementeção da lógica utilizando JavaScript tanto mo frontend quanto no backend. Nosso objetivo é oferecer uma plataforma interativa para comunicação instantânea entre usuários, tornando as conversas simples e acessíveis.
